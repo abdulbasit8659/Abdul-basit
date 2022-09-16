@@ -1,7 +1,7 @@
-1. apple
-2. Orange
-3. Banana
-4. Mango
-5. Peach
-6. Pineapple
-7. cherry
+apple
+Mango
+Peach
+Pineapple
+cherry
+Watermelon
+
